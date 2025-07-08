@@ -4,8 +4,7 @@
         "skipLibCheck": true,
         "module": "ES2020",
         "moduleResolution": "Node",
-        "allowSyntheticDefaultImports": true,
-        "strict": true
+        "allowSyntheticDefaultImports": true
     },
-    "include": ["vite.config.mts"]
+    "include": ["vite.config.mjs"]
 }
